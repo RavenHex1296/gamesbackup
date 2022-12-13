@@ -1,0 +1,25 @@
+2022-12-09 22:36:52.947 [info] Extension host with pid 699 started
+2022-12-09 22:36:52.950 [error] Error: EEXIST: file already exists, open '/workspace/.vscode-remote/data/User/workspaceStorage/-3784a607/vscode.lock'
+2022-12-09 22:36:52.978 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-3784a607/vscode.lock': Could not acquire lock, checking if the file is stale.
+2022-12-09 22:36:52.979 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-3784a607/vscode.lock': The lock looks stale, waiting for 2s.
+2022-12-09 22:36:53.047 [info] ExtensionService#_doActivateExtension gitpod.gitpod-web, startup: false, activationEvent: 'onAuthenticationRequest:gitpod'
+2022-12-09 22:36:53.048 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-09 22:36:54.979 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-3784a607/vscode.lock': The lock looks stale even after waiting for 2s.
+2022-12-09 22:36:54.979 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-3784a607/vscode.lock': Deleting a stale lock.
+2022-12-09 22:36:54.982 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-3784a607/vscode.lock': Lock acquired.
+2022-12-09 22:36:55.930 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-09 22:36:55.930 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-09 22:36:56.378 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-09 22:36:56.378 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-09 22:36:56.379 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-09 22:36:56.379 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2022-12-09 22:36:56.379 [info] Eager extensions activated
+2022-12-09 22:36:56.490 [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:yaml'
+2022-12-09 22:36:56.614 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2022-12-09 22:36:57.060 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2022-12-09 22:36:57.062 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2022-12-09 22:36:57.123 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2022-12-09 22:36:57.268 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-09 22:36:57.268 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-09 22:36:57.268 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-09 22:56:06.110 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'

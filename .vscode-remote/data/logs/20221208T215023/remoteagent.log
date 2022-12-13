@@ -1,0 +1,12 @@
+2022-12-08 21:50:23.823 [info] 
+
+
+
+
+2022-12-08 21:50:23.871 [info] Extension host agent started.
+2022-12-08 21:50:25.011 [info] [192.168.10.72][3d16d6cc][ManagementConnection] New connection established.
+2022-12-08 21:50:25.295 [info] [192.168.10.72][0f741b68][ExtensionHostConnection] New connection established.
+2022-12-08 21:50:25.303 [info] [192.168.10.72][0f741b68][ExtensionHostConnection] <691> Launched Extension Host Process.
+2022-12-08 21:50:25.609 [info] Getting Manifest... gitpod.gitpod-theme
+2022-12-08 21:50:26.250 [info] Installing extension: gitpod.gitpod-theme
+2022-12-08 21:50:26.493 [info] Extension installed successfully: gitpod.gitpod-theme

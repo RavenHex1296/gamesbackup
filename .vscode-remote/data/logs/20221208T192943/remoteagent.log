@@ -1,0 +1,21 @@
+2022-12-08 19:29:43.532 [info] 
+
+
+
+
+2022-12-08 19:29:43.572 [info] Extension host agent started.
+2022-12-08 19:29:43.628 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2022-12-08 19:29:43.696 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2022-12-08 19:29:44.031 [info] [192.168.108.75][663f4c97][ManagementConnection] New connection established.
+2022-12-08 19:29:45.008 [info] Getting Manifest... gitpod.gitpod-theme
+2022-12-08 19:29:45.744 [info] [192.168.82.198][6c84649d][ExtensionHostConnection] New connection established.
+2022-12-08 19:29:45.757 [info] [192.168.82.198][6c84649d][ExtensionHostConnection] <707> Launched Extension Host Process.
+2022-12-08 19:29:45.788 [info] Installing extension: gitpod.gitpod-theme
+2022-12-08 19:29:46.107 [info] Extension installed successfully: gitpod.gitpod-theme
+2022-12-08 19:29:47.308 [info] Getting Manifest... github.vscode-pull-request-github
+2022-12-08 19:29:48.064 [info] Installing extension: github.vscode-pull-request-github
+2022-12-08 19:29:50.831 [info] Extracted extension to /workspace/.vscode-remote/extensions/.be8f4734-9cc6-42a9-a39b-65ed8a8d0d29: github.vscode-pull-request-github
+2022-12-08 19:29:50.842 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.56.0-universal
+2022-12-08 19:29:50.848 [info] Extracting completed. github.vscode-pull-request-github
+2022-12-08 19:29:50.858 [info] Extension installed successfully: github.vscode-pull-request-github
+2022-12-08 19:29:50.873 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.54.1-universal

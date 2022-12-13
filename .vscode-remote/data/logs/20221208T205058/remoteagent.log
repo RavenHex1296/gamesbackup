@@ -1,0 +1,13 @@
+2022-12-08 20:50:58.102 [info] 
+
+
+
+
+2022-12-08 20:50:58.143 [info] Extension host agent started.
+2022-12-08 20:50:58.270 [info] Deleted from disk github.vscode-pull-request-github /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.54.1-universal
+2022-12-08 20:50:59.438 [info] Getting Manifest... gitpod.gitpod-theme
+2022-12-08 20:51:00.056 [info] Installing extension: gitpod.gitpod-theme
+2022-12-08 20:51:00.401 [info] Extension installed successfully: gitpod.gitpod-theme
+2022-12-08 20:51:06.432 [info] [192.168.82.198][02953170][ManagementConnection] New connection established.
+2022-12-08 20:51:06.766 [info] [192.168.108.75][0d559bc6][ExtensionHostConnection] New connection established.
+2022-12-08 20:51:06.774 [info] [192.168.108.75][0d559bc6][ExtensionHostConnection] <697> Launched Extension Host Process.

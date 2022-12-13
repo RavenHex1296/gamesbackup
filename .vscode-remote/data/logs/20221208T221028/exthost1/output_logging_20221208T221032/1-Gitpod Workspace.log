@@ -1,0 +1,51 @@
+[Info  - 22:10:35.505] VSCODE_MACHINE_ID: 11c27e36-5fec-4191-b42a-969282145cdd
+[Info  - 22:10:35.505] VSCODE_SESSION_ID: 3a050930-8ce5-4a78-984c-fac53e0f10b41670537428565
+[Info  - 22:10:35.505] VSCODE_VERSION: 1.74.0
+[Info  - 22:10:35.505] VSCODE_APP_NAME: Gitpod Code
+[Info  - 22:10:35.505] VSCODE_APP_HOST: Gitpod
+[Info  - 22:10:35.505] VSCODE_UI_KIND: web
+[Info  - 22:10:35.505] GITPOD_WORKSPACE_CONTEXT_URL: https://github.com/RavenHex1296/games
+[Info  - 22:10:35.505] GITPOD_INSTANCE_ID: 2259362a-3eee-41f8-b6a3-ae8bcc41a4c4
+[Info  - 22:10:35.505] GITPOD_WORKSPACE_URL: https://ravenhex1296-games-8mn5klocdc2.ws-us78.gitpod.io
+[Trace  - 22:10:35.534] Task status:
+	64efab54-1ef3-4115-aff1-560f1ce929a1 => RUNNING
+[Error  - 22:30:33.887] 64efab54-1ef3-4115-aff1-560f1ce929a1 terminal: listening failed:
+Error: 13 INTERNAL: waitid: no child processes
+	at Object.t.callErrorFromStatus (/ide/extensions/gitpod-web/dist/extension.js:2:1169609)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/dist/extension.js:2:1207851)
+	at Object.onReceiveStatus (/ide/extensions/gitpod-web/dist/extension.js:2:1200718)
+	at /ide/extensions/gitpod-web/dist/extension.js:2:1159899
+	at processTicksAndRejections (node:internal/process/task_queues:78:11)
+for call at
+	at n.makeServerStreamRequest (/ide/extensions/gitpod-web/dist/extension.js:2:1207641)
+	at n.listen (/ide/extensions/gitpod-web/dist/extension.js:2:1255470)
+	at /ide/extensions/gitpod-web/dist/extension.js:2:152458
+	at new Promise (<anonymous>)
+	at Object.open (/ide/extensions/gitpod-web/dist/extension.js:2:152357)
+	at h.startSendingEvents (/ide/out/vs/workbench/api/node/extensionHostProcess.js:96:127526)
+	at A.$startExtensionTerminal (/ide/out/vs/workbench/api/node/extensionHostProcess.js:96:131025)
+	at u.N (/ide/out/vs/workbench/api/node/extensionHostProcess.js:104:11208)
+	at u.M (/ide/out/vs/workbench/api/node/extensionHostProcess.js:104:10926)
+	at u.H (/ide/out/vs/workbench/api/node/extensionHostProcess.js:104:10019)
+	at u.G (/ide/out/vs/workbench/api/node/extensionHostProcess.js:104:9000)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:104:7788
+	at d.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at w.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:120:15804
+	at d.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at w.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+	at c.y (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+	at d.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at w.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at g.acceptChunk (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+	at /ide/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+	at d.invoke (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at w.deliver (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at g.fire (/ide/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at g.t (/ide/out/vs/workbench/api/node/extensionHostProcess.js:72:25895)
